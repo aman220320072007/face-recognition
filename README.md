@@ -37,4 +37,4 @@ If `Anaconda` doesn't appear on the first line, you are using a different versio
 
 
 # Demo
-![](https://github.com/bhattbhavesh91/cowin-vaccination-slot-availability/blob/main/demo/demo_1.gif)
+![](https://github.com/aman220320072007/face-recognition/blob/main/WhatsApp%20Video%202021-10-05%20at%203.54.36%20PM.mp4)
