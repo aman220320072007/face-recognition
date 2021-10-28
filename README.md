@@ -32,6 +32,8 @@ If `Anaconda` doesn't appear on the first line, you are using a different versio
 - Install all the dependencies - `! pip3 install -r requirements.txt`
 - Run Anaconda Promt (Run as Administrator) From Start Menu.
 - Go to your Directory Eg `cd C:\Users\lenovo\Desktop\Jupyter Notebooks\2021\face\face-recognition`
+- Click your images and create a known directory.
+- Add the path of the images in line 13 and line 17
 - Run `python3 app.py`
 
 
